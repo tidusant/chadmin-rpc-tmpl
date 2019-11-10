@@ -1,0 +1,12 @@
+# A sample TOML config file.
+[dbchadmin]
+h="localhost:27017"
+d="cuahang"
+u="cuahang"
+p="cuahang1234@"
+
+[config]
+builderid="594f665df54c58a2udfl54d3er"
+buildserver="http://b.localhost/"
+hostname="http://x.localhost/"
+#proxy="http://127.0.0.1:8866/"
