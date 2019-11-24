@@ -82,7 +82,7 @@ func Active(usex models.UserSession) models.RequestResult {
 		return c3mcommon.ReturnJsonMessage("0", "Active theme fail", "", "")
 	}
 
-	//update shop
+	//update shop test dev
 	rpch.UpdateTheme(usex.Shop.ID.Hex(), tmpl.Code)
 	usex.Shop.Theme = tmpl.Code
 	//create build
