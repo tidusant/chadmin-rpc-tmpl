@@ -1,2 +1,6 @@
 
 tmplmac
+logs/
+.DS_Store
+.vscode/launch.json
+.vscode/tasks.json
