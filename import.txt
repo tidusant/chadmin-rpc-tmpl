@@ -1,0 +1,3 @@
+#checkout
+github.com/tidusant/c3m-common
+github.com/tidusant/chadmin-repo
